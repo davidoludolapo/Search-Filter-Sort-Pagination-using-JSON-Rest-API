@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "Adam Carter",
+
+      "email": "adam.carter@unilogic.com",
+
+      "address": "83 Warner Street",
+
+      "status": "Active"
+    },
+    {
+      "id": 1,
+      "name": "Leanne Brier",
+
+      "email": "leanne.brier@connic.org",
+
+      "address": "9 Coleman Avenue",
+
+      "status": "Inactive"
+    },
+    {
+      "id": 2,
+      "name": "Anne Hathaway",
+
+      "email": "anne@gmail.com",
+
+      "address": "9 Json street",
+
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "name": "Tolu Akinola",
+
+      "email": "tolu@gmail.com",
+
+      "address": "7, Coleman street",
+
+      "status": "Inactive"
+    },
+    {
+      "id": 4,
+      "name": "Akin Odesola",
+
+      "email": "akin@gmail.com",
+
+      "address": "akin adesola street",
+
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "name": "June Galloway",
+
+      "email": "june@august.com",
+
+      "address": "9 September Avenue",
+
+      "status": "Inactive"
+    },
+    {
+      "id": 6,
+      "name": "Joao Felix",
+
+      "email": "felix@gmaail.com",
+
+      "address": "10 Coleman Avenue",
+
+      "status": "Active"
+    },
+    {
+      "id": 7,
+      "name": "Mason Mount",
+
+      "email": "masonr@connic.org",
+
+      "address": "9 Coleman Avenue",
+
+      "status": "Inactive"
+    },
+    {
+      "id": 8,
+      "name": "Kai Havertz",
+
+      "email": "kai@connic.org",
+
+      "address": "10 Coleslaw Avenue",
+
+      "status": "Active"
+    },
+    {
+      "id": 9,
+      "name": "Timo Werner",
+
+      "email": "werner@gmailcom",
+
+      "address": "Rb Liepzig",
+
+      "status": "Inactive"
+    },
+    {
+      "id": 10,
+      "name": "Thiago Silva",
+
+      "email": "thiago.bella@connic.org",
+
+      "address": "Chelsea Fc",
+
+      "status": "Active"
+    }
+  ]
+ 
+}
